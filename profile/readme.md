@@ -1,4 +1,4 @@
-# Skitscript
+# ![Skitscript](../logo.svg)
 
 A simple document which reads like a stage play and plays like a visual novel.
 
