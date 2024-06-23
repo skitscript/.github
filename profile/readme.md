@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="../logo.png" alt="Skitscript"></h1>
 
-A simple document which reads like a stage play and plays like a visual novel.
+A simple document format which reads like a stage play and plays like a visual novel.
 
 ## Simple Example
 
@@ -44,7 +44,7 @@ Jump to The Start.
 
 The language is designed to be implementation-independent, able to be embedded
 in other environments (such as existing game engines), so there is not a single
-"interpreter" tool like some other visual novel engines.
+"interpreter" tool like most visual novel engines.
 
 ### Specification
 
