@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="55.053313"
-     inkscape:cy="64.649762"
+     inkscape:zoom="2.8"
+     inkscape:cx="84.642857"
+     inkscape:cy="74.642857"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -80,17 +80,17 @@
     <text
        xml:space="preserve"
        style="font-size:24px;fill:#ffeebb;fill-opacity:1"
-       x="177.50064"
-       y="73.931038"
+       x="172.15883"
+       y="76.20388"
        id="text17564"><tspan
          sodipodi:role="line"
          id="tspan17562"
-         x="177.50064"
-         y="73.931038"
+         x="172.15883"
+         y="76.20388"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Reggae One';-inkscape-font-specification:'Reggae One';text-align:end;text-anchor:end;fill:#ffeebb;fill-opacity:1">skitscript</tspan></text>
     <g
        id="g329"
-       transform="translate(0.75761405,3.5355339)">
+       transform="translate(-4.5842098,5.8083771)">
       <path
          style="fill:#886644;fill-opacity:1;stroke:none;stroke-width:0.999995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 183.94453,63.56111 c 0,0 11.95316,0.664227 20.43896,-9.203252 5.42667,-6.310261 11.14362,-22.91335 11.14362,-22.91335 0,0 -19.54105,4.187215 -27.66676,14.183447 -6.31137,7.764234 -3.91582,17.933155 -3.91582,17.933155 z"
