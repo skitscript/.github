@@ -1,4 +1,5 @@
-# ![Skitscript](../logo.svg)
+
+<h1 align="center"><img src="../logo.svg" alt="Skitscript"></h1>
 
 A simple document which reads like a stage play and plays like a visual novel.
 
