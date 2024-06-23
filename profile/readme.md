@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="../logo.svg" alt="Skitscript"></h1>
+<h1 align="center"><img src="../logo.png" alt="Skitscript"></h1>
 
 A simple document which reads like a stage play and plays like a visual novel.
 
